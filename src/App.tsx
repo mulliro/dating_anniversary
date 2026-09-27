@@ -17,6 +17,7 @@ const App = () => {
   
   return (
     <>
+      <p className='rodape'>Made for Luana</p>
       <h1 className="title">Namorando (oficialmente) há:</h1>
 
       <div className='counter'>
@@ -24,6 +25,7 @@ const App = () => {
           <TimeUnit key={label} value={value} label={label} />
         ))}
       </div>
+
     </>
   )
 }

@@ -36,3 +36,13 @@
   color: var(--ink);
   margin-bottom: 2rem;
 }
+
+.rodape {
+  text-align: center;
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+  opacity: 0.55;
+  margin-bottom: 0.8rem;
+}
